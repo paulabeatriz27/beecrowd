@@ -1,0 +1,17 @@
+codigo, quantidade, preco = input().split( )
+codigo2, quantidade2, preco2 = input().split( )
+
+codigo = int(codigo)
+quantidade = float(quantidade)
+preco = float(preco)
+
+codigo2= int(codigo2)
+quantidade2= float(quantidade2)
+preco2= float(preco2)
+
+valor1 = quantidade * preco
+valor2 = quantidade2 * preco2
+
+valor = valor1 + valor2
+
+print(f'VALOR A PAGAR: R$ {valor:.2f}')
