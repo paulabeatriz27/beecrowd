@@ -1,0 +1,9 @@
+a, b, s = input().split( )
+
+a = int(a)
+b = int(b)
+s = int(s)
+
+result = a, b, s
+
+print(max(result), 'eh o maior')
