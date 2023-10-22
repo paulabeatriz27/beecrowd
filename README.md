@@ -1,2 +1,2 @@
 # beecrowd
-exercícicos realizados na plataforma beecrowd / exercises performed on the beecrowd platform.
+exercises performed on the beecrowd platform in python / exercícicos realizados na plataforma beecrowd em python.
